@@ -8,18 +8,6 @@ package Proyecto;
  *
  * @author User
  */
-public class Ticket {
+public class DetalleVenta {
     
-    public static void main(String[] args) {
-        
-       
-        
-    }
-    
-    public static String generarT(Venta v)
-    {
-        String s="";
-        s+="Venta\n"+"Total: "+v.getTotal();
-           return s;     
-    }
 }
