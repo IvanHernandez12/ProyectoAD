@@ -4,6 +4,8 @@
  */
 package Interfaz;
 
+import Proyecto.Login;
+
 /**
  *
  * @author User
